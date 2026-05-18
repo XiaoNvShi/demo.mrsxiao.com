@@ -1,0 +1,14 @@
+<svg width="176" height="52" viewBox="0 0 176 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="176" y1="0" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#8f969f"/>
+    </linearGradient>
+  </defs>
+  <g transform="skewX(-16)">
+    <path d="M8 12h62c9 0 15-4 21-10H42c-8 0-16 3-22 10H8Z" fill="url(#g)"/>
+    <path d="M0 28h64c8 0 15-4 22-11H30c-10 0-20 4-30 11Z" fill="url(#g)" opacity=".95"/>
+    <path d="M14 44h48c10 0 18-3 26-10H36c-8 0-16 3-22 10Z" fill="url(#g)" opacity=".9"/>
+  </g>
+  <text x="98" y="38" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="800" letter-spacing="7" fill="url(#g)">ARC</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+<defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#0b0c0e"/><stop offset="1" stop-color="#1c2026"/></linearGradient><linearGradient id="l" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef0f3" stop-opacity=".55"/><stop offset="1" stop-color="#7f8791" stop-opacity=".05"/></linearGradient></defs>
+<rect width="1200" height="760" fill="url(#a)"/>
+<g opacity=".16" stroke="#fff"><path d="M0 130h1200M0 260h1200M0 390h1200M0 520h1200M0 650h1200M160 0v760M320 0v760M480 0v760M640 0v760M800 0v760M960 0v760"/></g>
+<g fill="none" stroke="url(#l)" stroke-width="2">
+<path d="M190 520h290l70-180h250l70 180h150"/><path d="M250 590h700"/><path d="M395 520v70M560 340v250M800 340v250"/>
+<rect x="180" y="200" width="280" height="150" rx="12"/><rect x="515" y="170" width="250" height="115" rx="10"/><rect x="830" y="230" width="210" height="145" rx="12"/>
+</g>
+<text x="64" y="94" fill="#f5f6f8" font-family="Arial" font-size="38" font-weight="700" letter-spacing="4">ARC HUB FACTORY</text>
+<text x="64" y="136" fill="#9ea4ad" font-family="Arial" font-size="16" letter-spacing="4">MANUFACTURING / QUALITY / CUSTOMIZATION</text>
+</svg>
