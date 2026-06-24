@@ -1,0 +1,23 @@
+ARC C-end Site Planning Summary
+
+Reference layout direction:
+- Large creative landing hero, service/category cards, statistics, visual work grid, capability bars, testimonials and contact CTA.
+- Rebuilt for ARC bicycle hub retail users in Europe and North America.
+
+Pages generated:
+1. index.html - homepage with hero, category cards, stats, featured hubs, real-scene sections, skills, testimonials and CTA.
+2. shop-hubs.html - full hub catalogue with filter sidebar and retail product cards.
+3. mtb-hubs.html - MTB hubs category page for Trail / Enduro / XC.
+4. road-gravel-hubs.html - road and gravel category page.
+5. service-parts.html - freehub bodies, axles, end caps, bearings and kits.
+6. product-mt088.html - product detail template with gallery, options, specs and fitment CTA.
+7. find-your-hub.html - fitment guide page.
+8. technology.html - hub technology and standards page.
+9. support.html - FAQ, warranty, shipping and returns.
+10. about.html - brand story for ARC C-end site.
+11. contact.html - support and dealer inquiry form.
+
+Notes:
+- No vector icon files or inline vector drawings are used.
+- Real-scene JPG images are loaded from remote photo URLs; replace with ARC-owned images before launch.
+- Static HTML/CSS/JS can be adapted to WordPress, Shopify, WooCommerce or UEESHOP theme structure.
